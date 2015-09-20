@@ -1,0 +1,4 @@
+*.suo
+/dm.MainWeb/bin
+/.vs/config
+/dm.MainWeb/obj/Debug
